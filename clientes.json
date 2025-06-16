@@ -1,0 +1,13 @@
+{
+  "1": {
+    "nombre": "Diego",
+    "telefono": "7292914680",
+    "direccion": "Toluca",
+    "fecha_registro": "2025-06-15",
+    "compras_totales": 0.0,
+    "peso_total": 0.0,
+    "num_transacciones": 0,
+    "historial": [],
+    "activo": true
+  }
+}
